@@ -1,0 +1,28 @@
+.login-form{
+    background-color: green;
+    width: 300px;
+    height: 150px;
+}
+
+.login{
+    margin-top: 5px;
+    padding-left: 25px;
+    padding-top: 5px;
+}
+
+.login-btn{
+    margin-left: 25px;
+    margin-top: 15px;
+}
+
+p{
+    margin-left: 10px;
+}
+
+a:hover{
+    color: white;
+}
+
+a{
+    color: rgb(208, 208, 246);
+}

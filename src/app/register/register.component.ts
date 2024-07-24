@@ -1,14 +1,11 @@
-import { Component } from '@angular/core';
+import {Component} from "@angular/core";
+import { RegisterFormComponent } from "../register-form/register-form.component";
 
 @Component({
-  selector: 'app-register',
+  selector: "app-register",
   standalone: true,
-  imports: [],
-  templateUrl: './register.component.html',
-  styleUrl: './register.component.css'
+  imports: [RegisterFormComponent],
+  templateUrl: "./register.component.html",
+  styleUrl: "./register.component.css",
 })
-export class RegisterComponent {
-  username = '';
-  password = '';
-  passwordVerify = '';
-}
+export class RegisterComponent {}

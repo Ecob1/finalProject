@@ -1,0 +1,24 @@
+.formBody{
+    background-color: green;
+    width: 300px;
+}
+
+.register-form{
+    padding: 20px;
+}
+
+.divs{
+    margin:  5px;
+}
+
+a:hover{
+    color: white;
+}
+
+.btn{
+    margin-left: 5px;
+}
+
+a{
+    color: rgb(205, 205, 248);
+}
